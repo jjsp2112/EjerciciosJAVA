@@ -2,7 +2,7 @@ package ejercicios;
 
 import java.util.Scanner;
 
-public class Ejercicio23 {
+public class Ejercicio23Lapices {
 
 	private static final int PRECIO_MIN = 90;
 	private static final int PRECIO_MAY = 85;
